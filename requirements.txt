@@ -11,6 +11,8 @@ django-crispy-forms
 six==1.15.0
 pyenchant
 pytz==2020.1
+gunicorn==21.2.0
+
 
 
 
